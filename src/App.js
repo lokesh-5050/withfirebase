@@ -4,8 +4,8 @@ import Media from "./Components/Media";
 function App() {
   return (
     <>
-    {/* <Home/> */}
-    <Media/>
+    <Home/>
+    {/* <Media/> */}
     </>
   );
 }
