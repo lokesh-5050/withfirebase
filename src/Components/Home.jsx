@@ -116,4 +116,8 @@ const Home = () => {
     )
 }
 
+
+//almost all operations of firebase/firestore and  authentication
+
+
 export default Home
